@@ -1,0 +1,13 @@
+online_voting/
+│
+├── db.php
+├── index.php        (Login page)
+├── vote.php         (Voting page)
+├── result.php       (Result page)
+├── logout.php
+│
+├── css/
+│   └── style.css
+│
+└── database/
+    └── voting.sql
